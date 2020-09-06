@@ -20,7 +20,7 @@ namespace SimpleCalculator
                 {
                     if(a == 0)
                     {
-                        Console.WriteLine("to exit type meme for the operator");
+                        Console.WriteLine("to exit type meme for the operator.");
                         a++;
                     }
 
