@@ -15,7 +15,7 @@ namespace SimpleCalculator
                 if (!isConvertedSucessfully)
                 {
                     throw new Exception("Conversion was not successfull.");
-
+                    
                 }
 
                 return convertedNumber;
